@@ -1,22 +1,12 @@
-<div align="center">
-  <h1>Hi, I'm Adi (Aditya Shukla) 👋</h1>
-  <h3>Principal Product Manager | Banking & Payments | AI Agents | Fintech</h3>
-  <p>📍 SF Bay Area | 🔗 <a href="https://kanpurtocupertino.com">kanpurtocupertino.com</a> | 💼 <a href="https://linkedin.com/in/initadi">LinkedIn</a></p>
-</div>
+![](assets/Bottom_up.svg)
 
----
+![](assets/header_.png)
 
-### 🚀 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=30&pause=1000&color=276DC3&center=true&vCenter=true&width=900&lines=Hi+there+👋,+I+am+Adi+Shukla;Principal+Product+Manager+%7C+Fintech;Payments+%26+Risk+Expert;Building+Intelligent+Banking+Solutions)](https://github.com/adishuklaa)
 
-I am a results-driven **Lead/Principal Product Manager with 14+ years of experience** in fintech, banking, and payments. I specialize in 0-to-1 product development, bridging deep financial services expertise with cutting-edge machine learning to deliver scalable, intelligent, and user-centric banking solutions.
+# 👨‍💻 Adi Shukla | Principal Product Manager & AI Expert
 
-Currently, I lead end-to-end product strategy for **Experian Smart Money Neobank**, where I architected secure checking/savings onboarding, deployed AI-powered fraud prediction models (slashing R01 returns by 82%), and scaled MAU from thousands to millions. Previously, I drove product vision at **Marqeta**, **Wells Fargo (Zelle P2P)**, and **Hewlett-Packard**.
-
-**Core Competencies:**
-
-- 💳 **Banking & Payments**: ACH, RTP, FedNow, Zelle P2P, Bill Pay, Card Issuance, KYC/KYB, NACHA, BSA/AML.
-- 🛡️ **Fraud & Risk**: AI-Powered Fraud Prediction, ACH Return Rate Reduction, Dispute Resolution, Risk Modeling.
-- 📈 **Growth & Retention**: Customer Onboarding Funnels, Reward/Referral Programs, Retention Cohort Analysis.
+Welcome to my GitHub! I am a results-driven **Lead/Principal Product Manager with 14+ years of experience** focused on building end-to-end solutions in fintech, banking, and payments. My repositories demonstrate hands-on expertise in **0-to-1 Product Development, Payment APIs, AI Fraud Prediction**, and **Risk Modeling**. Whether it's architecting a secure checking/savings onboarding flow or deploying AI models that slash ACH returns by 82%, every project here aims to bridge deep financial services expertise with cutting-edge machine learning to deliver scalable, intelligent, and user-centric banking solutions.
 
 ---
 
